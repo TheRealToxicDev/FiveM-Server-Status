@@ -1,0 +1,11 @@
+{
+    "SERVER_URL": "",
+    "BOT_LOG_LEVEL": "2",
+    "FIVEM_BOT_TOKEN": "",
+    "BOT_CHANNEL_ID": "",
+    "BOT_MESSAGE_ID": "",
+    "SERVER_SUGGESTION_CHANNEL": "",
+    "SERVER_BUG_REPORTS_CHANNEL": "",
+    "SERVER_BUG_LOG_CHANNEL": "",
+    "SERVER_BOT_LOGS": ""
+}

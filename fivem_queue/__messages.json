@@ -1,0 +1,14 @@
+{
+    "Gathering": "Gathering queue information.. Please wait.",
+    "License": "License is required.",
+    "Steam": "Steam is required.",
+    "Banned": "Whoops, You have been banned!!",
+    "Whitelist": "Sorry it looks like you are NOT a Whitelisted member.",
+    "Queue": "You are in the Queue",
+    "PriorityQueue": "You are in a Priority Queue",
+    "Canceled": "Queue has been canceled, Your postion will change next time you join!",
+    "Error": "An error has occured and prevented deferrals, Please contact my Developer for assistance.",
+    "Timeout": "You have exceeded the maximum loading time threshold which was set by the Server Owner or Developer/s.",
+    "QueueCount": "[Queue: {0}]",
+    "Symbols": "No Symbols or Consecutive Spaces are allowed in your name, Please use a UTF8 Friendly Name to avoid any errors."
+}
