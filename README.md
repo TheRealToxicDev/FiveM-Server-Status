@@ -6,7 +6,6 @@ A custom discord bot providing functionality for interacting with fiveM servers 
 
 ## Project Navigation
 - [Install Instructions](http://help.toxicdev.me/docs/instructions/fivemserverstatus)
-- [GitHub Repository](https://github.com/TheRealToxicDev/FiveM-Server-Status)
 
 ---
 ## Requirements
